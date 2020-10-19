@@ -2,7 +2,7 @@
 
 const Card = ({id, name, email}) => {
     return ( 
-        <div className="bg-light-green dib br3 p3 ma2 grow bw2 shadow-5">
+        <div className="bg-light-green dib br3 p3 ma2 md-4 col-md-4 grow bw2 shadow-5">
             <div>
                 <img src={`https://robohash.org/${id}`} alt="Scarest moster in the world"/>
             </div>
