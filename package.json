@@ -1,7 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
-  "homepage": "git@github.com:Johnnasimba/RoboFriends.git",
+  "homepage": "https://Johnnasimba.github.io/RoboFriends",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
